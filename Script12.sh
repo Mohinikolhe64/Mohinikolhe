@@ -16,6 +16,7 @@ then
 else
  echo "$a = $b: a is equal to b"
 fi
+hi
 
 
 if [ -z $a ]
